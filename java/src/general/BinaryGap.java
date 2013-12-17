@@ -42,6 +42,6 @@ public class BinaryGap {
 			number >>>= 1;
 		}
 
-		return count;
+		return max;
 	}
 }
